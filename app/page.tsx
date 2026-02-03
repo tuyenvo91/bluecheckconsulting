@@ -26,7 +26,7 @@ export default function Home() {
                     <Users className="size-6 text-primary" />
                   </div>
                   <div>
-                    <CardTitle className="text-xl">Client View1</CardTitle>
+                    <CardTitle className="text-xl">Client View</CardTitle>
                     <Badge variant="secondary" className="mt-1">
                       Public Interface
                     </Badge>
